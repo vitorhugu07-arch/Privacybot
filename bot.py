@@ -16,9 +16,9 @@ CHANNEL_ID = os.environ["CHANNEL_ID"]
 
 # ---------- PLANOS ----------
 PLANS = {
-    "1": ("Pack VIP", 1690),
+    "1": ("Pack VIP", 2990),
     "2": ("Pack Premium", 1990),
-    "3": ("Pack Basic", 2990),
+    "3": ("Pack Basic", 1690),
 }
 
 # ---------- LEGENDA NOVA ----------
