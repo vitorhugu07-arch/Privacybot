@@ -30,7 +30,7 @@ LEGENDA = (
     "• Conteúdos de novinhas baixa renda +dmen⁰r🥵\n\n"
     "👑 <b>vitalício VIP</b> - R$ 29,90\n"
     "• Conteúdos obscuros,incestos, e muito+🔞😈\n\n"
-    "💳 Pagamento por PIX, liberação na hora.""
+    "💳 Pagamento por PIX, liberação na hora"
 )
 
 TG = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}"
