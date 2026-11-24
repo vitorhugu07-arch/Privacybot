@@ -16,20 +16,20 @@ CHANNEL_ID = os.environ["CHANNEL_ID"]
 
 # ---------- PLANOS ----------
 PLANS = {
-    "1": ("Pack VIP", 2990),
+    "1": ("Pack VIP", 1690),
     "2": ("Pack Premium", 1990),
-    "3": ("Pack Basic", 1699),
+    "3": ("Pack Basic", 2990),
 }
 
 # ---------- LEGENDA NOVA ----------
 LEGENDA = (
     "🔒 <b>Escolha seu acesso</b>\n\n"
-    "🔥 <b>Pack Basic</b> - R$ 16,99\n"
-    "• Vídeos quentes e populares 🔥🥵\n\n"
+    "🔥 <b>Pack Basic</b> - R$ 16,90\n"
+    "• Vídeos vazados famosinha 🔥🥵\n\n"
     "⭐ <b>Pack Premium</b> - R$ 19,90\n"
-    "• Conteúdos exclusivos e cenas intensas 🥵\n\n"
+    "• Conteúdos de novinhas baixa renda +dmen⁰r🥵\n\n"
     "👑 <b>Pack VIP</b> - R$ 29,90\n"
-    "• Conteúdos exclusivos que você nunca viu 🔞😈\n\n"
+    "• Conteúdos obscuros,incestos, e muito+🔞😈\n\n"
     "💳 Pagamento por PIX, liberação na hora."
 )
 
